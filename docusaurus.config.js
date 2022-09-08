@@ -130,3 +130,17 @@ const config = {
 };
 
 module.exports = config;
+//
+//module.exports = {
+//  title: 'My Site',
+//  tagline: 'The tagline of my site',
+//  url: 'https://luoxding.github.io/',
+//  baseUrl: '/docusaurus/',
+//  onBrokenLinks: 'throw',
+//  favicon: 'img/favicon.ico',
+//  organizationName: 'luoxding',
+//  projectName: 'docusaurus',
+////  deploymentBranch: 'gh-pages',
+////  trailingSlash: false,
+//};
+
